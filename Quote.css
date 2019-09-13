@@ -1,0 +1,106 @@
+html {
+background-color: olive;
+display: flex;
+
+
+}
+
+body {
+	border: solid;
+	border-radius: 50px;
+	margin: 20px 40px;
+	padding: 20px 40px;
+	border: double;
+	font-family: duthya;
+	display: inline-column;
+	justify-content: center;
+	align-content: center;
+	background-color: navy;
+	font-size: 25px;
+	justify-content: center;
+	align-content: center;
+	width: 100%;
+
+
+
+
+}
+
+h1 {
+	border: dashed;
+	border-radius: 25px;
+	padding:10px 20px;
+	padding-left: 700px;
+	margin: 10px 20px;
+	justify-content: center;
+	color: red;
+	background-color: orange;
+	justify-content: center;
+	align-content: center;
+
+
+}
+
+div {
+	border: medium;
+	padding: 10px 20px;
+	margin: 10px 20px;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-around;
+
+
+}
+
+img {
+	margin: 10px 20px;
+	/*padding: 10px 20px;*/
+	border: ridge;
+	width: 600px;
+	height: 600px;
+
+
+}
+
+p {
+	border: solid;
+	border-radius: 40px;
+	padding: 20px;
+	padding-left: 30px;
+	padding-right: 20px;
+	margin: 30px;
+	font-family: chilanka;
+	color: darksalmon;
+	background-color: purple;
+	font-size: 25px;
+
+	
+
+}
+
+button {
+	display: flex;
+	border: ridge;
+	padding: 10px 20px;
+	margin: 10px 20px;
+	margin-left: 750px;
+	color: pink;
+	background-color: brown;
+	justify-content: center;
+	align-content: center;
+
+
+}
+
+
+
+h3 {
+	margin: 10px 20px;
+	padding: 10px 20px; 
+	padding-left: 200px;
+	border: dashed;
+	font-family: chilanka;
+	color: yellow;
+	background-color: gray;
+
+}
